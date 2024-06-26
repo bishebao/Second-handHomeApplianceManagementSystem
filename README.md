@@ -1,0 +1,2 @@
+# Second-handHomeApplianceManagementSystem
+ 基于SpringBoot Vue二手家电管理系统
